@@ -1,0 +1,25 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --foreground: #fafafa;
+  --muted: #a3a3a3;
+  --accent: #f97316;
+}
+
+body {
+  color: var(--foreground);
+  background-color: #0a0a0a;
+}
+
+::selection {
+  background: rgba(249, 115, 22, 0.35);
+  color: #fff;
+}
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+}

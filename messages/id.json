@@ -1,0 +1,251 @@
+{
+  "nav": {
+    "home": "Beranda",
+    "about": "Tentang",
+    "products": "Produk",
+    "faq": "FAQ",
+    "contact": "Kontak"
+  },
+  "lang": {
+    "enShort": "EN",
+    "idShort": "ID",
+    "label": "Bahasa"
+  },
+  "theme": {
+    "light": "Terang",
+    "dark": "Gelap",
+    "toggle": "Ubah tema warna"
+  },
+  "footer": {
+    "linksTitle": "Tautan cepat",
+    "socialTitle": "Terhubung",
+    "rights": "Hak cipta dilindungi.",
+    "copyright": "© 2026 Batam Stream Lab."
+  },
+  "home": {
+    "hero": {
+      "headline": "Menyiarkan Pengalaman Melampaui Batas",
+      "sub": "Mitra profesional untuk acara hybrid, live streaming, dan produksi multimedia berbasis Batam.",
+      "ctaPrimary": "Lihat Produk",
+      "ctaSecondary": "Hubungi Kami"
+    },
+    "services": {
+      "title": "Sorotan layanan",
+      "subtitle": "Stack produksi kelas studio untuk setiap skala acara.",
+      "items": [
+        { "title": "Live Streaming", "desc": "Pengiriman multi-bitrate dengan jalur cadangan dan monitoring operator." },
+        { "title": "Acara Hybrid", "desc": "Menjembatani energi onsite dengan audiens jarak jauh dan isyarat tersinkron." },
+        { "title": "Sistem LED Wall", "desc": "Kanvas terang dengan kalibrasi untuk panggung, siaran, dan konten merek." },
+        { "title": "Produksi Multi-Kamera", "desc": "Program terswitch, rekaman ISO, dan komunikasi ramah sutradara." },
+        { "title": "Acara Virtual", "desc": "Panggung remote yang menarik, grafis, dan partisipasi interaktif." },
+        { "title": "Dukungan Audio Visual", "desc": "Penguatan suara, keseimbangan lighting, dan logistik kritis pertunjukan." }
+      ]
+    },
+    "why": {
+      "title": "Mengapa memilih kami",
+      "subtitle": "Eksekusi yang dipercaya saat pertunjukan harus tetap live.",
+      "points": [
+        { "title": "Tim teknis berpengalaman", "body": "Insinyur siaran dan acara yang memahami tekanan waktu siaran." },
+        { "title": "Alur produksi andal", "body": "Checklist, cadangan, dan disiplin rundown dari persiapan hingga pembongkaran." },
+        { "title": "Peralatan profesional", "body": "Peralatan terawat dengan suku cadang dan redundansi jalur sinyal." },
+        { "title": "Deployment cepat", "body": "Fly-pack modular dan rack teruji untuk putar venue yang singkat." },
+        { "title": "Siap korporat", "body": "Visual aman merek, komunikasi terstruktur, dan pelaporan ramah stakeholder." }
+      ],
+      "stats": [
+        { "value": "2020", "label": "Berdiri sejak" },
+        { "value": "2", "label": "Negara dilayani" },
+        { "value": "24/7", "label": "Semangat dukungan acara" },
+        { "value": "100%", "label": "Fokus live" }
+      ]
+    },
+    "projects": {
+      "title": "Proyek unggulan",
+      "subtitle": "Sekilas produksi yang kami bawa ke udara—ganti visual kapan saja.",
+      "slides": [
+        {
+          "title": "Peluncuran produk regional",
+          "category": "Korporat",
+          "desc": "Keynote hybrid dengan konten LED tersinkron dan streaming berlapis."
+        },
+        {
+          "title": "Panggung musik",
+          "category": "Hiburan",
+          "desc": "Pertunjukan multi-kam dengan lighting imersif dan keseimbangan audio spasial."
+        },
+        {
+          "title": "Forum pemerintahan",
+          "category": "Sektor publik",
+          "desc": "Staging aman, bonding internet cadangan, dan infrastruktur komunikasi siaran."
+        },
+        {
+          "title": "Pameran dagang",
+          "category": "Ekspo",
+          "desc": "Cerita LED modular, server media loop, dan teknik lapangan."
+        },
+        {
+          "title": "Town hall virtual",
+          "category": "Virtual",
+          "desc": "Routing talenta remote, Q&A moderasi, dan paket grafis terkunci merek."
+        }
+      ]
+    },
+    "clients": {
+      "title": "Klien & mitra",
+      "subtitle": "Dipercaya bersama tim yang menuntut presisi di bawah tekanan."
+    },
+    "cta": {
+      "title": "Siap Meningkatkan Pengalaman Acara Anda?",
+      "button": "Konsultasi Gratis"
+    }
+  },
+  "about": {
+    "intro": {
+      "title": "Pengenalan perusahaan",
+      "body": "Batam Stream Lab menghadirkan solusi acara hybrid, streaming, dan multimedia sejak 2020. Kami memadukan arahan kreatif dengan teknik siaran agar organisasi terhubung dengan audiens di panggung fisik maupun digital. Dari Batam, kami mendukung produksi di Indonesia dan Singapura dengan kru andal dan alur kerja teruji lapangan."
+    },
+    "vision": {
+      "title": "Visi",
+      "statement": "Menjadi penyedia solusi teknologi kreatif dan streaming terkemuka di Indonesia."
+    },
+    "mission": {
+      "title": "Misi",
+      "items": [
+        "Menyediakan teknologi acara yang andal dan menyesuaikan skala audiens.",
+        "Mendukung komunikasi hybrid yang mulus antara venue dan penonton jarak jauh.",
+        "Menciptakan pengalaman digital yang menarik dengan kualitas presentasi sinematik.",
+        "Berinovasi terus melalui pelatihan, peralatan, dan kolaborasi transparan."
+      ]
+    },
+    "values": {
+      "title": "Nilai perusahaan",
+      "subtitle": "Prinsip yang melekat pada setiap rundown dan gladi.",
+      "items": [
+        { "title": "Inovasi", "body": "Kami prototipe berani, gladi hati-hati, lalu eksekusi presisi." },
+        { "title": "Profesionalisme", "body": "Komunikasi jelas, kru tepat waktu, dan etika produksi di setiap lokasi." },
+        { "title": "Keandalan", "body": "Jalur cadangan, peralatan teruji, dan troubleshooting tenang saat waktu mepet." },
+        { "title": "Kolaborasi", "body": "Kami menyatu dengan tim Anda—kreatif, IT, dan agensi bergerak sebagai satu kru." }
+      ]
+    },
+    "team": {
+      "title": "Sorotan tim",
+      "subtitle": "Spesialis di balik konsol, kamera, dan aliran sinyal.",
+      "roles": [
+        { "title": "Kru Teknis", "desc": "RF, jaringan, shading kamera, dan integrasi sistem di lokasi." },
+        { "title": "Departemen Kreatif", "desc": "Desain gerak, template GFX, optimasi konten LED, dan look merek." },
+        { "title": "Operator Siaran", "desc": "Operasi switcher, submix audio, rekaman/ISO, dan dukungan show calling." }
+      ]
+    },
+    "equipment": {
+      "title": "Peralatan & kapabilitas",
+      "subtitle": "Inventaris modular untuk format korporat, hiburan, dan hybrid.",
+      "items": [
+        "Sistem Kamera",
+        "Sistem Streaming",
+        "Sistem Audio",
+        "Internet Bonding",
+        "Tampilan LED",
+        "Setup Ruang Kontrol"
+      ]
+    }
+  },
+  "products": {
+    "header": {
+      "title": "Solusi Kami",
+      "subtitle": "Layanan teknologi acara dari ujung ke ujung."
+    },
+    "detail": [
+      {
+        "title": "Produksi Live Streaming",
+        "bullets": ["Setup multi-kamera", "Integrasi RTMP", "Dukungan webinar"]
+      },
+      {
+        "title": "Sistem Acara Hybrid",
+        "bullets": ["Integrasi online/offline", "Interaksi audiens", "Sinkronisasi panggung"]
+      },
+      {
+        "title": "LED Wall & Sistem Visual",
+        "bullets": ["Setup LED", "Pemutaran visual", "Dukungan motion graphics"]
+      },
+      {
+        "title": "Dukungan Teknis Acara",
+        "bullets": ["Audio", "Lighting", "Dukungan operator"]
+      },
+      {
+        "title": "Platform Acara Virtual",
+        "bullets": ["Sistem webinar", "Integrasi registrasi", "Alat engagement"]
+      }
+    ],
+    "workflow": {
+      "title": "Alur kerja",
+      "steps": [
+        { "title": "Konsultasi", "desc": "Lingkup, venue, audiens, risiko, dan selarasan kreatif." },
+        { "title": "Perencanaan", "desc": "Desain jalur sinyal, redundansi, staffing, gladi, pohon komunikasi." },
+        { "title": "Setup Teknis", "desc": "Load-in, staging, line check, uji streaming, kunci grafis." },
+        { "title": "Eksekusi Acara", "desc": "Show call, troubleshooting adaptif, ISO, update stakeholder." },
+        { "title": "Dukungan Pasca Acara", "desc": "Deliverable, serah terima aset, debrief, dan arsip." }
+      ]
+    },
+    "cta": {
+      "title": "Butuh solusi kustom?",
+      "button": "Hubungi Tim Kami"
+    }
+  },
+  "faq": {
+    "title": "Pertanyaan yang sering diajukan",
+    "subtitle": "Jawaban langsung sebelum kami live bersama.",
+    "items": [
+      {
+        "q": "Layanan apa yang disediakan Batam Stream Lab?",
+        "a": "Kami menyediakan live streaming, sistem acara hybrid, lingkungan visual LED, produksi multi-kamera, acara virtual, dan dukungan audio visual lengkap dengan operator terlatih."
+      },
+      {
+        "q": "Apakah Anda mendukung acara di luar Batam?",
+        "a": "Ya. Meski berkantor di Batam, kami memobilisasi kru dan fly-pack ke berbagai lokasi di Indonesia dan Singapura sesuai skala dan jadwal produksi."
+      },
+      {
+        "q": "Bisakah menangani acara skala korporat?",
+        "a": "Tentu. Kami rutin mendukung keynote korporat, town hall, ekspo, dan siaran eksekutif dengan streaming berlapis, infrastruktur komunikasi, dan grafis aman merek."
+      },
+      {
+        "q": "Platform streaming apa yang didukung?",
+        "a": "Kami mengintegrasikan tujuan RTMP/SRT utama termasuk YouTube, Vimeo, CDN kustom, pemutar privat, dan platform webinar—disesuaikan kebutuhan keamanan dan analitik."
+      },
+      {
+        "q": "Apakah menyediakan sistem cadangan internet?",
+        "a": "Ya. Kami dapat menerapkan bonded cellular, fiber dual-path, dan routing failover agar stream kritis tetap tangguh saat jaringan venue berfluktuasi."
+      },
+      {
+        "q": "Apakah survei lokasi tersedia?",
+        "a": "Survei teknis lokasi tersedia untuk memetakan daya, rigging, garis pandang, jalur jaringan, dan beban LED—ideal untuk venue baru atau setup hybrid kompleks."
+      }
+    ]
+  },
+  "contact": {
+    "title": "Hubungi kami",
+    "subtitle": "Ceritakan acara Anda—kami petakan kru dan stack yang tepat.",
+    "company": "Batam Stream Lab",
+    "establishedLabel": "Berdiri sejak",
+    "addressLabel": "Alamat",
+    "hoursLabel": "Jam operasional",
+    "hoursValue": "Senin - Sabtu\n09:00 - 18:00 WIB",
+    "form": {
+      "name": "Nama",
+      "company": "Perusahaan",
+      "email": "Email",
+      "phone": "Nomor telepon",
+      "eventType": "Jenis acara",
+      "message": "Pesan",
+      "submit": "Kirim pertanyaan",
+      "success": "Terima kasih—tim kami akan menghubungi segera.",
+      "placeholderEvent": "Summit korporat, konser, webinar…"
+    },
+    "mapTitle": "Lokasi kami",
+    "socialTitle": "Media sosial"
+  },
+  "accessibility": {
+    "openMenu": "Buka menu",
+    "closeMenu": "Tutup menu",
+    "mainNav": "Utama",
+    "mobileNav": "Navigasi mobile"
+  }
+}

@@ -1,0 +1,251 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "products": "Products",
+    "faq": "FAQ",
+    "contact": "Contact"
+  },
+  "lang": {
+    "enShort": "EN",
+    "idShort": "ID",
+    "label": "Language"
+  },
+  "theme": {
+    "light": "Light",
+    "dark": "Dark",
+    "toggle": "Toggle color theme"
+  },
+  "footer": {
+    "linksTitle": "Quick links",
+    "socialTitle": "Connect",
+    "rights": "All Rights Reserved.",
+    "copyright": "© 2026 Batam Stream Lab."
+  },
+  "home": {
+    "hero": {
+      "headline": "Broadcasting Experiences Beyond Boundaries",
+      "sub": "Professional hybrid event, live streaming, and multimedia production partner based in Batam.",
+      "ctaPrimary": "View Products",
+      "ctaSecondary": "Contact Us"
+    },
+    "services": {
+      "title": "Services highlight",
+      "subtitle": "Studio-grade production stack for every scale of event.",
+      "items": [
+        { "title": "Live Streaming", "desc": "Multi-bitrate delivery with redundant paths and operator monitoring." },
+        { "title": "Hybrid Events", "desc": "Bridge on-site energy with remote audiences and synchronized cues." },
+        { "title": "LED Wall System", "desc": "High-brightness canvases calibrated for stage, broadcast, and brand content." },
+        { "title": "Multi-Camera Production", "desc": "Switched programs, ISO recording, and director-friendly comms." },
+        { "title": "Virtual Events", "desc": "Engaging remote stages, graphics, and interactive participation." },
+        { "title": "Audio Visual Support", "desc": "Sound reinforcement, lighting balance, and show-critical logistics." }
+      ]
+    },
+    "why": {
+      "title": "Why choose us",
+      "subtitle": "Execution you can trust when the show must go live.",
+      "points": [
+        { "title": "Experienced technical team", "body": "Seasoned broadcast and event engineers who speak show time." },
+        { "title": "Reliable production workflow", "body": "Checklists, backups, and run-of-show discipline from prep to strike." },
+        { "title": "Professional equipment", "body": "Maintained gear with spares and signal path redundancy where it matters." },
+        { "title": "Fast deployment", "body": "Modular fly-packs and pre-tested racks for rapid venue turnarounds." },
+        { "title": "Corporate-ready execution", "body": "Brand-safe visuals, comms cadence, and stakeholder-friendly reporting." }
+      ],
+      "stats": [
+        { "value": "2020", "label": "Established" },
+        { "value": "2", "label": "Countries served" },
+        { "value": "24/7", "label": "Event support mindset" },
+        { "value": "100%", "label": "Live focus" }
+      ]
+    },
+    "projects": {
+      "title": "Featured projects",
+      "subtitle": "A glimpse of productions we bring to air — swap in your imagery anytime.",
+      "slides": [
+        {
+          "title": "Regional product launch",
+          "category": "Corporate",
+          "desc": "Hybrid keynote with synchronized LED content and redundant streaming paths."
+        },
+        {
+          "title": "Music showcase",
+          "category": "Entertainment",
+          "desc": "Multi-cam switched show with immersive lighting and spatial audio balancing."
+        },
+        {
+          "title": "Government forum",
+          "category": "Public sector",
+          "desc": "Secure staging, backup internet bonding, and broadcast-style comms infrastructure."
+        },
+        {
+          "title": "Trade exhibition",
+          "category": "Expo",
+          "desc": "Modular LED storytelling, looped media servers, and on-site engineering."
+        },
+        {
+          "title": "Virtual town hall",
+          "category": "Virtual",
+          "desc": "Remote talent routing, moderated Q&A, and brand-locked graphics package."
+        }
+      ]
+    },
+    "clients": {
+      "title": "Clients & partners",
+      "subtitle": "Trusted alongside teams who expect precision under pressure."
+    },
+    "cta": {
+      "title": "Ready to Elevate Your Event Experience?",
+      "button": "Get Consultation"
+    }
+  },
+  "about": {
+    "intro": {
+      "title": "Company introduction",
+      "body": "Batam Stream Lab has delivered hybrid event, streaming, and multimedia solutions since 2020. We combine creative direction with broadcast engineering to help organizations connect audiences across physical and digital stages. From Batam, we support productions across Indonesia and Singapore with reliable crews and field-tested workflows."
+    },
+    "vision": {
+      "title": "Vision",
+      "statement": "To become a leading creative technology and streaming solutions provider in Indonesia."
+    },
+    "mission": {
+      "title": "Mission",
+      "items": [
+        "Deliver reliable event technology that scales with your audience.",
+        "Support seamless hybrid communication between venues and remote viewers.",
+        "Create engaging digital experiences with cinematic presentation quality.",
+        "Innovate continuously through training, tooling, and transparent collaboration."
+      ]
+    },
+    "values": {
+      "title": "Company values",
+      "subtitle": "Principles etched into every rundown and rehearsal.",
+      "items": [
+        { "title": "Innovation", "body": "We prototype boldly, rehearse responsibly, then execute with precision." },
+        { "title": "Professionalism", "body": "Clear communication, punctual crews, and production etiquette on every site." },
+        { "title": "Reliability", "body": "Redundant paths, tested gear, and calm troubleshooting when timelines compress." },
+        { "title": "Collaboration", "body": "We embed with your team—creative, IT, and agency partners move as one crew." }
+      ]
+    },
+    "team": {
+      "title": "Team spotlight",
+      "subtitle": "Specialists behind the consoles, cameras, and signal flow.",
+      "roles": [
+        { "title": "Technical Crew", "desc": "RF, networking, camera shading, and system integration onsite." },
+        { "title": "Creative Department", "desc": "Motion design, GFX templates, LED content optimization, brand look development." },
+        { "title": "Broadcast Operator", "desc": "Switcher operation, audio submix, record / ISO management, and show calling support." }
+      ]
+    },
+    "equipment": {
+      "title": "Equipment & capability",
+      "subtitle": "Modular inventory aligned to corporate, entertainment, and hybrid formats.",
+      "items": [
+        "Camera Systems",
+        "Streaming Systems",
+        "Audio Systems",
+        "Internet Bonding",
+        "LED Displays",
+        "Control Room Setup"
+      ]
+    }
+  },
+  "products": {
+    "header": {
+      "title": "Our Solutions",
+      "subtitle": "End-to-end event technology services."
+    },
+    "detail": [
+      {
+        "title": "Live Streaming Production",
+        "bullets": ["Multi-camera setup", "RTMP integration", "Webinar support"]
+      },
+      {
+        "title": "Hybrid Event System",
+        "bullets": ["Online/offline integration", "Audience interaction", "Stage synchronization"]
+      },
+      {
+        "title": "LED Wall & Visual System",
+        "bullets": ["LED setup", "Visual playback", "Motion graphics support"]
+      },
+      {
+        "title": "Event Technical Support",
+        "bullets": ["Audio", "Lighting", "Operator support"]
+      },
+      {
+        "title": "Virtual Event Platform",
+        "bullets": ["Webinar systems", "Registration integration", "Engagement tools"]
+      }
+    ],
+    "workflow": {
+      "title": "Workflow process",
+      "steps": [
+        { "title": "Consultation", "desc": "Scope, venues, audiences, risk register, and creative alignment." },
+        { "title": "Planning", "desc": "Signal path design, redundancy, staffing, rehearsal schedule, comms trees." },
+        { "title": "Technical Setup", "desc": "Load-in, staging, line checks, streaming tests, graphics lock." },
+        { "title": "Event Execution", "desc": "Show call, adaptive troubleshooting, ISO capture, stakeholder updates." },
+        { "title": "Post Event Support", "desc": "Deliverables, asset handoff, debrief, and archival guidance." }
+      ]
+    },
+    "cta": {
+      "title": "Need custom solutions?",
+      "button": "Contact Our Team"
+    }
+  },
+  "faq": {
+    "title": "Frequently asked questions",
+    "subtitle": "Straight answers before we go live together.",
+    "items": [
+      {
+        "q": "What services does Batam Stream Lab provide?",
+        "a": "We deliver live streaming, hybrid event systems, LED visual environments, multi-camera production, virtual events, and full audio visual support with trained operators."
+      },
+      {
+        "q": "Do you support events outside Batam?",
+        "a": "Yes. While we are headquartered in Batam, we mobilize crews and fly-packs across Indonesia and Singapore depending on production scope and schedule."
+      },
+      {
+        "q": "Can you handle corporate-scale events?",
+        "a": "Absolutely. We routinely support corporate keynotes, town halls, expos, and executive broadcasts with redundant streaming, comms infrastructure, and brand-safe graphics."
+      },
+      {
+        "q": "What streaming platforms are supported?",
+        "a": "We integrate with major RTMP/SRT destinations including YouTube, Vimeo, custom CDNs, private players, and webinar platforms—tailored to your security and analytics needs."
+      },
+      {
+        "q": "Do you provide internet backup systems?",
+        "a": "Yes. We can deploy bonded cellular, dual-path fiber, and failover routing to keep critical streams resilient when venue networks fluctuate."
+      },
+      {
+        "q": "Is on-site survey available?",
+        "a": "On-site technical surveys are available to map power, rigging, sightlines, network paths, and LED loading—ideal for first-time venues or complex hybrid setups."
+      }
+    ]
+  },
+  "contact": {
+    "title": "Contact us",
+    "subtitle": "Tell us about your event—we will map the right crew and stack.",
+    "company": "Batam Stream Lab",
+    "establishedLabel": "Established",
+    "addressLabel": "Address",
+    "hoursLabel": "Business hours",
+    "hoursValue": "Monday - Saturday\n09:00 - 18:00 WIB",
+    "form": {
+      "name": "Name",
+      "company": "Company",
+      "email": "Email",
+      "phone": "Phone number",
+      "eventType": "Event type",
+      "message": "Message",
+      "submit": "Send Inquiry",
+      "success": "Thank you—our team will follow up shortly.",
+      "placeholderEvent": "Corporate summit, concert, webinar…"
+    },
+    "mapTitle": "Find us",
+    "socialTitle": "Social media"
+  },
+  "accessibility": {
+    "openMenu": "Open menu",
+    "closeMenu": "Close menu",
+    "mainNav": "Primary",
+    "mobileNav": "Mobile navigation"
+  }
+}

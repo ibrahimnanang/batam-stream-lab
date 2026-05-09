@@ -1,46 +1,65 @@
 import type { Metadata } from "next";
 import type { ReactNode } from "react";
-import { DM_Sans, Outfit } from "next/font/google";
-import { Footer } from "@/components/Footer";
-import { Header } from "@/components/Header";
-import { site } from "@/components/site";
+import { Inter, Syne } from "next/font/google";
+import { Footer } from "@/components/layout/Footer";
+import { Header } from "@/components/layout/Header";
+import { AppProviders } from "@/components/providers/AppProviders";
+import { WhatsAppButton } from "@/components/WhatsAppButton";
+import { getLocale } from "@/lib/i18n";
 import "./globals.css";
 
-const dm = DM_Sans({
+const inter = Inter({
   subsets: ["latin"],
-  variable: "--font-dm",
+  variable: "--font-geist",
   display: "swap",
 });
 
-const outfit = Outfit({
+const syne = Syne({
   subsets: ["latin"],
-  variable: "--font-outfit",
+  variable: "--font-display",
   display: "swap",
 });
 
 export const metadata: Metadata = {
   title: {
-    default: `${site.name} — LED & Solar`,
-    template: `%s — ${site.name}`,
+    default: "Batam Stream Lab — Hybrid Event & Streaming Solutions",
+    template: "%s — Batam Stream Lab",
   },
-  description: site.tagline,
+  description:
+    "Professional hybrid events, live streaming, LED systems, and multimedia production from Batam — serving Indonesia and Singapore.",
+  keywords: [
+    "Hybrid Event Batam",
+    "Live Streaming Batam",
+    "Event Production Indonesia",
+    "LED Wall Batam",
+    "Webinar Production",
+    "Virtual Event Organizer",
+    "Multimedia Production Batam",
+  ],
   openGraph: {
-    title: site.name,
-    description: site.tagline,
+    title: "Batam Stream Lab — Hybrid Event & Streaming Solutions",
+    description:
+      "Broadcast studio aesthetic production partner for hybrid events, streaming, and LED experiences.",
     type: "website",
-    locale: "id_ID",
+    locale: "en_US",
+    siteName: "Batam Stream Lab",
   },
 };
 
-export default function RootLayout({ children }: Readonly<{ children: ReactNode }>) {
+export default async function RootLayout({ children }: Readonly<{ children: ReactNode }>) {
+  const locale = await getLocale();
+
   return (
-    <html lang="id" className="scroll-smooth">
-      <body className={`${dm.variable} ${outfit.variable} min-h-screen font-sans antialiased`}>
-        <div className="flex min-h-screen flex-col">
-          <Header />
-          <main className="relative flex-1">{children}</main>
-          <Footer />
-        </div>
+    <html lang={locale === "id" ? "id" : "en"} suppressHydrationWarning>
+      <body className={`${inter.variable} ${syne.variable} min-h-screen font-sans antialiased`}>
+        <AppProviders>
+          <div className="flex min-h-screen flex-col">
+            <Header />
+            <main className="relative flex-1">{children}</main>
+            <Footer />
+            <WhatsAppButton />
+          </div>
+        </AppProviders>
       </body>
     </html>
   );

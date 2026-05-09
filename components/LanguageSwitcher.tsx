@@ -1,6 +1,6 @@
 "use client";
 
-import { localeCookieName, type Locale } from "@/lib/i18n";
+import { localeCookieName, type Locale } from "@/lib/i18n.shared";
 import { motion } from "framer-motion";
 import { useRouter } from "next/navigation";
 

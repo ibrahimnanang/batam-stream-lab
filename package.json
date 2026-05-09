@@ -1,5 +1,5 @@
 {
-  "name": "lumen-led-solar-profile",
+  "name": "batam-stream-lab-web",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -28,5 +28,6 @@
   },
   "engines": {
     "node": ">=20"
-  }
+  },
+  "description": "Batam Stream Lab corporate website — hybrid events & streaming production."
 }

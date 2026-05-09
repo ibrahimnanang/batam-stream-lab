@@ -8,7 +8,8 @@ import { HomeHero } from "@/components/home/HomeHero";
 import { ServiceGrid } from "@/components/home/ServiceGrid";
 import { getDictionary } from "@/lib/i18n";
 
-const clientLogos = ["Astra Media", "Nusantara Tech", "Harbor Expo", "Studio Khatulistiwa", "Kepri Live", "Signalworks", "Citra Stage", "Orbit Events"];
+/** Placeholder client names — unrelated to legacy Lumen / LED solar profile repos. */
+const clientLogos = ["Astra Media", "Harbor Expo", "Studio Khatulistiwa", "Kepri Live", "Signalworks", "Citra Stage", "Orbit Events", "Batam Horizon"];
 
 export async function HomeSections() {
   const dict = await getDictionary();

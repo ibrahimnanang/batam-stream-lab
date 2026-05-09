@@ -1,5 +1,4 @@
-# Railway: Root directory mengarah ke repo ini jika mono-repo.
-# Nixpacks mendeteksi Next.js secara otomatis untuk `npm install` + `npm run build`.
+# Batam Stream Lab — Next.js deploy (distinct from legacy Lumen LED / solar profile projects).
 
 [build]
 builder = "NIXPACKS"
